@@ -1,0 +1,3 @@
+maça|5|Legumes|8
+banana|2|Legumes|7
+abacaxi|8|Sem categoria|9
